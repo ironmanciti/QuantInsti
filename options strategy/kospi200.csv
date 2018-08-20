@@ -1,0 +1,2 @@
+symbol,date,fut_near_month_close,fut_far_month_close,strike_price,near_month_expiry,LTP_near_month,far_month_expiry,LTP_far_month
+KOSPI200,20-Aug-18,288.95,288.95,290,13-Sep-18,3.29,11-Oct-18,4.36
